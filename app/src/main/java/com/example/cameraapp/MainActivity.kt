@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     val REQUEST_CODE=1
     //x variable i am adding to see the changes in jenkins
     val x=1
+    val y=1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
